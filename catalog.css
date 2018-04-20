@@ -1,0 +1,16 @@
+body {
+  background-color: #020f3d;
+  font-family: sans-serif, "Open Sans Condensed";
+  text-align: center;
+}
+
+#content {
+  display: grid;
+  max-width: 900px;
+  margin:0 auto;
+}
+
+#content > *{
+  background: #c2cad6;
+  padding: 30px
+}
